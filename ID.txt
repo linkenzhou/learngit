@@ -1,0 +1,8 @@
+192.168.173.33
+yunwei
+1q2w3e4R
+
+
+Jenkins
+hujin_admin
+password123
